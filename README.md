@@ -16,7 +16,7 @@ In the dialog box, double-click on my-first-webpage.html.
 ## Technologies Used
 This project was written in HTML using Visual Studio Code.
 ## Support and contact details
-[![Victor K. Maina](iamges/profile_pic.jpg)(https://github.com/VictorKMaina)]
+[![Victor K. Maina](images/profile_pic.jpg)(https://github.com/VictorKMaina)]
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}**
