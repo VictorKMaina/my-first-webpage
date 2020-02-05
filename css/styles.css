@@ -13,3 +13,11 @@ p {
 ul {
   line-height: 40px;
 }
+
+strong {
+  font-style: italic;
+}
+
+em {
+  font-weight: bold;
+}
